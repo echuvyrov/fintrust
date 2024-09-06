@@ -1,0 +1,13 @@
+{
+	"/": [],
+	"/addreg": [],
+	"/processedloan": [
+		"src/routes/processedloan/+page.server.js"
+	],
+	"/uploadregs": [
+		"src/routes/uploadregs/+server.js"
+	],
+	"/upload": [
+		"src/routes/upload/+server.js"
+	]
+}
